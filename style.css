@@ -1,0 +1,171 @@
+#particles-js{
+    background: #131a20;
+    height: 200% !important;
+    width: 100%;
+    position: absolute;
+  }
+  
+  body {
+    position: relative;
+    background-color: #131a20;
+    width: 100%;
+    height: 100vh;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+
+  .welkomeatas {
+      text-align: center;
+      position: relative;
+      color: #fff;
+  }
+
+  .welkomeatas span {
+      text-align: center;
+      position: relative;
+      background: -webkit-linear-gradient(45deg, #F1C40F, #F1970F);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+
+.navbar {
+    background-color:  #1abc9c;
+}
+
+.navbar-nav {
+    text-align: center;
+}
+
+.header1 {
+    color: #1abc9c;
+}
+
+.iconsss span a {
+    color: white;
+    margin: 10px;
+    text-align: center;
+}
+
+.iconsss span a:hover {
+    color: #F1C40F;
+    margin: 10px;
+    text-align: center;
+}
+
+.jumbotron {
+    background-color:  #131a20;
+    text-align: center;
+}
+
+.jumbotron img {
+    height: 320px;
+    width: 320px;
+    border-radius: 100% !important;
+    text-align: center !important;
+}
+
+.display-4 {
+    font-weight: 400;
+    color: white;
+}
+
+.display-4 span {
+    font-weight: 600;
+    background: -webkit-linear-gradient(45deg, #F1C40F, #F1970F);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.lead {
+    font-weight: 400;
+    color: white;
+}
+
+.lead span {
+    font-weight: 550;
+    color: #F1C40F;
+}
+
+.btn {
+    background-image: linear-gradient(#F1C40F, #F1970F);
+}
+
+.btn:hover {
+    background-image: linear-gradient(#b3910d, #b6720c);
+}
+
+.footerbawah {
+    text-align: center;
+    color: white;
+}
+
+.otw {
+    text-align: center;
+    color: #1abc9c;
+    position: relative;
+}
+
+.buttons {
+    text-align: center;
+    position: relative;
+}
+
+.col .thumbnail img {
+    border-radius: 15px;
+}
+
+.contact {
+    background: -webkit-linear-gradient(45deg, #F1C40F, #F1970F);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.iconsdan a {
+    text-align: center;
+    color: white;
+    margin: 10px;
+}
+
+.iconsdan a:hover {
+    text-align: center;
+    color: #F1C40F;
+    margin: 10px;
+}
+
+.footer-bawah {
+    font-size: medium;
+    position: relative;
+}
+
+.btn {
+    margin: 10px;
+}
+
+.headerr {
+    text-align: center;
+    position: relative;
+}
+
+
+
+
+/* Desktop version */
+@media (min-width: 992px) {
+    #particles-js{
+        background: #131a20;
+        height: 190% !important;
+        width: 100%;
+        position: absolute;
+      }
+
+      .jumbotron img {
+        height: 400px;
+        width: 400px;
+        border-radius: 100%;
+        text-align: center;
+    }
+}
