@@ -1,2 +1,2 @@
-# faqiih.github.io
-web portfolio
+# Portfolio for learning
+web portfolio 
