@@ -1,2 +1,2 @@
 # Portfolio for learning
-web portfolio
+Web portfolio for learning
